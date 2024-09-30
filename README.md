@@ -50,9 +50,9 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM :
-Developed By: Ragul A C
+Developed By: Kersoan P
 <br/>
-Register Number: 212221240042
+Register Number: 212221230050
 ### Importing Modules
 ```py
 from google.colab import auth
